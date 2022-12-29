@@ -1,0 +1,17 @@
+form{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    width: 100%;
+    align-items: center;
+}
+form>input{
+    width: 20%;
+}
+form>h2{
+    margin: 0;
+    padding: 0;
+}
+form>input[type="button"]{
+    width: 10%;
+}
